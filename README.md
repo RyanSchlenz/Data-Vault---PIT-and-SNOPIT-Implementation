@@ -1,5 +1,3 @@
-# Data-Vault---PIT-and-SNOPIT-Implementation
-
 # Data Vault PIT and SNOPIT Tables Implementation
 
 This repository contains modular SQL scripts for implementing Point-in-Time (PIT) and Sequence Number Only Point-in-Time (SNOPIT) tables in a Data Vault architecture.
