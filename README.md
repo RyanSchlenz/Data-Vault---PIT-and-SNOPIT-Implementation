@@ -20,7 +20,7 @@ Follow these scripts in order for a complete implementation:
 
 ## Technical Documentation
 
-For detailed information on the concepts and implementation, see the [Technical Documentation](./docs/pit_tables_technical_documentation.md).
+For detailed information on the concepts and implementation, see the [Technical Documentation](pit_tables_technical_documentation.md).
 
 ## Benefits of PIT and SNOPIT Tables
 
